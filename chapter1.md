@@ -2,5 +2,5 @@
 
 21321321321
 
-https://uploader.shimo.im/f/35QPEgKFW24m76KX.png!thumbnail
+![](/assets/AQ]Q4%29%R53{LFHS00QDI62E.png)
 
