@@ -1,7 +1,6 @@
 # Summary
 
 * [1  平台概述](README.md)
-  * [11](11.md)
 * [2  功能说明](chapter1.md)
   * [2.1  注册登录](chapter1/21-zhu-ce-deng-lu.md)
     * [2.1.1  注册](chapter1/21-zhu-ce-deng-lu/211-zhu-ce.md)
