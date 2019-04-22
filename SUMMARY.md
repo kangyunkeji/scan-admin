@@ -1,8 +1,6 @@
 # Summary
 
 * [1  平台概述](README.md)
-  * [1.1  平台介绍](11-ping-tai-jie-shao.md)
-  * [1.2  概要说明](12-gai-yao-shuo-ming.md)
 * [2  功能说明](chapter1.md)
   * [2.1  注册登录](chapter1/21-zhu-ce-deng-lu.md)
     * [2.1.1  注册](chapter1/21-zhu-ce-deng-lu/211-zhu-ce.md)
