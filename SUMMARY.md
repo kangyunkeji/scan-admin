@@ -21,5 +21,5 @@
     * [2.3.4  编辑或删除协作者](chapter1/234-bian-ji-huo-shan-chu-xie-zuo-zhe.md)
   * [2.4  公共空间](chapter1/24-gong-gong-kong-jian.md)
   * [2.5  统计](chapter1/25-tong-ji.md)
-  * 2.6  其他功能
+  * [2.6  其他功能](chapter1/26-qi-ta-gong-neng.md)
 
