@@ -16,7 +16,7 @@
     * [2.2.5  3D模型编辑版](chapter1/22-kong-jian/225-3d-mo-xing-bian-ji-ban.md)
   * 2.3  协作者
     * [2.3.1  了解协作者](chapter1/231-le-jie-xie-zuo-zhe.md)
-    * 2.3.2  邀请新协作者
+    * [2.3.2  邀请新协作者](chapter1/232-yao-qing-xin-xie-zuo-zhe.md)
     * 2.3.3  邀请现有的协作者
     * 2.3.4  编辑或删除协作者
   * 2.4  公共空间
