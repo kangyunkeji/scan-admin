@@ -1,6 +1,7 @@
 # Summary
 
 * [1  平台概述](README.md)
+  * [11](11.md)
 * [2  功能说明](chapter1.md)
   * [2.1  注册登录](chapter1/21-zhu-ce-deng-lu.md)
     * [2.1.1  注册](chapter1/21-zhu-ce-deng-lu/211-zhu-ce.md)
@@ -12,7 +13,7 @@
     * [2.2.3  公开空间项目](chapter1/22-kong-jian/223-gong-kai-kong-jian-xiang-mu.md)
     * [2.2.4  空间项目详情页](chapter1/22-kong-jian/224-kong-jian-xiang-mu-xiang-qing-ye.md)
     * [2.2.5  3D模型编辑版](chapter1/22-kong-jian/225-3d-mo-xing-bian-ji-ban.md)
-  * 2.3  协作者
+  * [2.3  协作者](chapter1/23-xie-zuo-zhe.md)
     * [2.3.1  了解协作者](chapter1/231-le-jie-xie-zuo-zhe.md)
     * [2.3.2  邀请新协作者](chapter1/232-yao-qing-xin-xie-zuo-zhe.md)
     * [2.3.3  邀请现有的协作者](chapter1/233-yao-qing-xian-you-de-xie-zuo-zhe.md)
