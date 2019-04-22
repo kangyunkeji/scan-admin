@@ -7,7 +7,7 @@
   * [2.1  注册登录](chapter1/21-zhu-ce-deng-lu.md)
     * [2.1.1  注册](chapter1/21-zhu-ce-deng-lu/211-zhu-ce.md)
     * [2.1.2  登录](chapter1/21-zhu-ce-deng-lu/212-deng-lu.md)
-    * 2.1.3  忘记密码
+    * [2.1.3  忘记密码](chapter1/21-zhu-ce-deng-lu/213-wang-ji-mi-ma.md)
   * [2.2  空间](chapter1/22-kong-jian.md)
     * 2.2.1  生成空间项目
     * 2.2.2  空间项目操作
