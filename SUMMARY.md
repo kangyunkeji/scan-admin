@@ -11,7 +11,7 @@
   * [2.2  空间](chapter1/22-kong-jian.md)
     * [2.2.1  生成空间项目](chapter1/22-kong-jian/221-sheng-cheng-kong-jian-xiang-mu.md)
     * [2.2.2  空间项目操作](chapter1/22-kong-jian/222-kong-jian-xiang-mu-cao-zuo.md)
-    * 2.2.3  公开空间项目
+    * [2.2.3  公开空间项目](chapter1/22-kong-jian/223-gong-kai-kong-jian-xiang-mu.md)
     * 2.2.4  空间项目详情页
     * 2.2.5  3D模型编辑版
   * 2.3  协作者
