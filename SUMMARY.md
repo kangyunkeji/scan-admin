@@ -23,7 +23,7 @@
     * [2.5.1  统计概况](chapter1/25-tong-ji/251-tong-ji-gai-kuang.md)
     * [2.5.2  忠诚度](chapter1/25-tong-ji/252-zhong-cheng-du.md)
     * [2.5.3  访问时间](chapter1/25-tong-ji/253-fang-wen-shi-jian.md)
-    * 2.5.4  设备
+    * [2.5.4  设备](chapter1/25-tong-ji/254-she-bei.md)
     * 2.5.5  设备
     * [2.5.6  所在地](chapter1/25-tong-ji/256-suo-zai-di.md)
   * [2.6  其他功能](chapter1/26-qi-ta-gong-neng.md)
