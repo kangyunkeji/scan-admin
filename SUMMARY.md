@@ -20,11 +20,11 @@
     * [2.3.4  编辑或删除协作者](chapter1/234-bian-ji-huo-shan-chu-xie-zuo-zhe.md)
   * [2.4  公共空间](chapter1/24-gong-gong-kong-jian.md)
   * [2.5  统计](chapter1/25-tong-ji.md)
-    * 2.5.1  统计概况
-    * 2.5.2  忠诚度
+    * [2.5.1  统计概况](chapter1/25-tong-ji/251-tong-ji-gai-kuang.md)
+    * [2.5.2  忠诚度](chapter1/25-tong-ji/252-zhong-cheng-du.md)
     * 2.5.3  访问时间
     * 2.5.4  设备
     * 2.5.5  设备
-    * 2.5.6  所在地
+    * [2.5.6  所在地](chapter1/25-tong-ji/256-suo-zai-di.md)
   * [2.6  其他功能](chapter1/26-qi-ta-gong-neng.md)
 
